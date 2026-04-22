@@ -21,6 +21,13 @@ const projeler = [
   github: 'https://github.com/OzkurtSelcuk/MailSender'
 },
 {
+    isim: 'ChatApp',
+    aciklama: 'NestJS, Socket.io ve .NET Core Auth kullanılarak geliştirilmiş gerçek zamanlı sohbet platformu. Şifreli odalar, anlık mesajlaşma ve mobil uyumlu arayüz desteği sunar.',
+    teknolojiler: ['React', 'NestJS', 'Socket.io', '.NET Core', 'PostgreSQL'],
+    demo: 'https://chatapp-client-jlum.onrender.com', // Senin chat linkin
+    github: 'https://github.com/OzkurtSelcuk/ChatApp'
+  },
+{
     isim:'Handgesture',
     aciklama:'Python ve OpenCV kullanarak el hareketlerini tanıyan bir uygulama. Gerçek zamanlı video akışında el hareketlerini algılayıp ekranda gösteriyor.',
     teknolojiler: ['Python', 'OpenCV', 'MediaPipe'],
